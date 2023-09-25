@@ -1,0 +1,67 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+package customExceptions{
+class AreaNotFoundException
+}
+
+package dataStructures{
+class AVL
+class BST
+class Node
+interface BSTInterface
+interface DataTypeInterface
+class Pair
+class Three
+class MiddleComparator
+class RightComparator
+class TwoDTree
+class TwoDNode
+interface TwoDTreeInterface
+}
+
+package fileReaderUtils{
+class FastReader
+class ReadDataFromFiles
+}
+package model{
+class Area
+class AreaCode
+class AreaCodeM49
+class AreaName
+class Item
+class ItemCode
+class ItemCodeCPC
+class ItemName
+class Element
+class ElementCode
+class ElementName
+class ItemElementAgregateValue
+class ProductionYear
+class Value
+class Year
+}
+
+class BST implements BSTInterface
+class TwoDTree implements TwoDTreeInterface
+BST<|--AVL
+
+Area<|--AreaCode
+Area<|--AreaCodeM49
+Area<|--AreaName
+Element<|--ElementCode
+Element<|--ElementName
+Item<|--ItemCode
+Item<|--ItemCodeCPC
+Item<|--ItemName
+
+TwoDTree +--TwoDNode
+BST +--Node
+Three +-- MiddleComparator
+Three +-- RightComparator
+class Area implements DataTypeInterface
+class Item implements DataTypeInterface
+class Element implements DataTypeInterface
+
+@enduml

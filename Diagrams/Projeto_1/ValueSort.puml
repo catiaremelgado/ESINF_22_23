@@ -1,0 +1,92 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface Iterable{
+}
+
+interface Iterator{
+}
+package info{
+class CompletedInfo
+{
+    - completedInfo : TreeMap<String,CountryInfo>
+    + iterator() : Iterator<CountryEntry>
+    + valueSort(completedInfo : CompletedInfo,fruit : String, quantity : Integer) : List<String>
+    + getCountryInfo(fruit : String) : CountryInfo
+}
+class CountryInfo
+{
+    - countryInfo : TreeMap<String, YearInfo>
+    + iterator() : Iterator<CountryEntry>
+    + getByCountry(country : String) : YearInfo
+}
+
+class YearInfo
+{
+    - yearInfo : TreeMap<Integer, Integer>
+    + iterator() : Iterator<YearEntry>
+}
+
+}
+class Pair{
+- left : T
+- right : U
++ Pair(left : T, right : U)
++ compareTo(o2 : Pair<T,U>) : int
+}
+
+package iterators{
+class CountryInfoIterator
+{
+    current : Map.Entry<String, YearInfo>
+    list : TreeMap<String, YearInfo>
+    + hasNext(): boolean
+    + next(): T
+}
+
+class YearInfoIterator
+{
+    current : Map.Entry<Integer, Integer>
+    list : TreeMap<Integer,Integer>
+    + hasNext(): boolean
+    + next(): T
+}
+}
+package entries{
+class CountryEntry
+{
+    - country : String
+    - year : YearInfo
+}
+
+class YearEntry
+{
+    - year : int
+    - quantity : int
+}
+
+}
+
+
+
+
+
+CompletedInfo  ---> YearInfoIterator: uses
+CompletedInfo --->  CountryInfoIterator: uses
+CompletedInfo ---> Pair: uses
+
+YearEntry <-- YearInfoIterator : returns
+YearInfoIterator -[dashed]-|> Iterator
+YearInfoIterator <-- YearInfo : returns
+YearInfo -[dashed]-|> Iterable
+
+CompletedInfo -[dashed]-|> Iterable
+
+CountryEntry <-- CountryInfoIterator : returns
+CountryInfoIterator -[dashed]-|> Iterator
+CountryInfoIterator <-- CountryInfo : returns
+CountryInfo -[dashed]-|> Iterable
+
+
+
+@enduml

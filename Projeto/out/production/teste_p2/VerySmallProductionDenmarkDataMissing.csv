@@ -1,0 +1,8 @@
+Area Code,Area Code (M49),Area,Item Code,Item Code (CPC),Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+"54","'208","","515","'01341","Apples","5419","Yield","2013","2013","hg/ha","225807.000000","E"
+"54","'208","Denmark","547","'01353.01","Raspberries","5419","Yield","1989","1989","hg/ha","50000.000000","E"
+"54","'208","Denmark","547","'01353.01","Raspberries","5312","Area harvested","1995","1995","ha","34.000000","I"
+"54","'208","Denmark","547","'01353.01","Raspberries","5419","Yield","1990","1990","hg/ha","67073.000000","I"
+"54","'208","Denmark","515","'01341","Apples","5510","Production","1990","1990","tonnes","70000.000000","T"
+"54","'208","Denmark","547","'01353.01","Raspberries","5312","Area harvested","1994","1994","ha","31.000000","I"
+"54","'208","Denmark","552","'01355.01","Blueberries","5510","Production","2011","2011","tonnes",,"A"

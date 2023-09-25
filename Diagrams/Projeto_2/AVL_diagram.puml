@@ -1,0 +1,13 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class AVL{
+-balanceFactor(node : Node<E>) : int
+-rightRotation(node : Node<E>) : Node<E>
+-leftRotation(node : Node<E>) : Node<E>
+
+}
+
+
+
+@enduml

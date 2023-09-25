@@ -1,0 +1,157 @@
+Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code (FAO),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1961,1961,tonnes,15100,*,Unofficial figure
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1962,1962,tonnes,15100,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1963,1963,tonnes,15100,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1964,1964,tonnes,18400,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1965,1965,tonnes,20400,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1966,1966,tonnes,22800,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1967,1967,tonnes,27600,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1968,1968,tonnes,27900,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1969,1969,tonnes,28200,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1970,1970,tonnes,27300,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1971,1971,tonnes,21500,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1972,1972,tonnes,26600,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1973,1973,tonnes,27600,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1974,1974,tonnes,27800,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1975,1975,tonnes,27900,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1976,1976,tonnes,26200,F,FAO estimate
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,515,Apples,1977,1977,tonnes,15500,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1961,1961,tonnes,10004,,Official data
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1962,1962,tonnes,8039,,Official data
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1963,1963,tonnes,7931,,Official data
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1964,1964,tonnes,8498,,Official data
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1965,1965,tonnes,8000,*,Unofficial figure
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1966,1966,tonnes,9000,*,Unofficial figure
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1967,1967,tonnes,10000,*,Unofficial figure
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1968,1968,tonnes,10000,*,Unofficial figure
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1969,1969,tonnes,11000,*,Unofficial figure
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1970,1970,tonnes,9000,*,Unofficial figure
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1971,1971,tonnes,10000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1972,1972,tonnes,11000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1973,1973,tonnes,14000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1974,1974,tonnes,13000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1975,1975,tonnes,14000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1976,1976,tonnes,15000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1977,1977,tonnes,13000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1978,1978,tonnes,14000,F,FAO estimate
+QCL,Crops and livestock products,3,Albania,5510,Production,515,Apples,1979,1979,tonnes,15000,F,FAO estimate
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1962,1962,tonnes,14000,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1963,1963,tonnes,13000,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1964,1964,tonnes,12441,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1965,1965,tonnes,13151,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1966,1966,tonnes,11208,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1967,1967,tonnes,11364,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1968,1968,tonnes,10490,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1969,1969,tonnes,11877,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1970,1970,tonnes,12900,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1971,1971,tonnes,13506,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1972,1972,tonnes,11480,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1973,1973,tonnes,10062,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1974,1974,tonnes,14568,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1975,1975,tonnes,21575,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1976,1976,tonnes,14624,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1977,1977,tonnes,19179,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1978,1978,tonnes,15577,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1979,1979,tonnes,13656,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1980,1980,tonnes,21818,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,515,Apples,1981,1981,tonnes,23386,,Official data
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1963,1963,tonnes,200000,*,Unofficial figure
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1964,1964,tonnes,205000,*,Unofficial figure
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1965,1965,tonnes,210000,*,Unofficial figure
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1966,1966,tonnes,210000,*,Unofficial figure
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1967,1967,tonnes,213000,*,Unofficial figure
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1968,1968,tonnes,213000,*,Unofficial figure
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1969,1969,tonnes,250000,,Official data
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1970,1970,tonnes,300000,,Official data
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1971,1971,tonnes,300000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1972,1972,tonnes,250000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1973,1973,tonnes,300000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1974,1974,tonnes,320000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1975,1975,tonnes,250000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1976,1976,tonnes,300000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1977,1977,tonnes,280000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1978,1978,tonnes,300000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1979,1979,tonnes,300000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1980,1980,tonnes,280000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1981,1981,tonnes,275000,F,FAO estimate
+QCL,Crops and livestock products,7,Angola,5510,Production,486,Bananas,1982,1982,tonnes,275000,F,FAO estimate
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1966,1966,tonnes,5,F,FAO estimate
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1967,1967,tonnes,8,F,FAO estimate
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1968,1968,tonnes,10,F,FAO estimate
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1969,1969,tonnes,12,F,FAO estimate
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1970,1970,tonnes,15,F,FAO estimate
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1971,1971,tonnes,18,F,FAO estimate
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1972,1972,tonnes,20,,Official data
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1973,1973,tonnes,8,,Official data
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1974,1974,tonnes,32,,Official data
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1975,1975,tonnes,12,,Official data
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1976,1976,tonnes,23,,Official data
+QCL,Crops and livestock products,8,Antigua and Barbuda,5510,Production,486,Bananas,1977,1977,tonnes,11,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1968,1968,tonnes,469600,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1969,1969,tonnes,436400,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1970,1970,tonnes,445000,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1971,1971,tonnes,423900,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1972,1972,tonnes,512300,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1973,1973,tonnes,233300,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1974,1974,tonnes,786000,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1975,1975,tonnes,608000,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1976,1976,tonnes,576500,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1977,1977,tonnes,820000,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1978,1978,tonnes,810000,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1979,1979,tonnes,972000,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1980,1980,tonnes,958000,,Official data
+QCL,Crops and livestock products,9,Argentina,5510,Production,515,Apples,1981,1981,tonnes,908000,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2000,2000,tonnes,23230,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2001,2001,tonnes,35380,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2002,2002,tonnes,35200,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2003,2003,tonnes,52800,*,Unofficial figure
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2004,2004,tonnes,63504,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2005,2005,tonnes,90798,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2006,2006,tonnes,96268,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2007,2007,tonnes,111836,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2008,2008,tonnes,117199,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2009,2009,tonnes,120844,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2010,2010,tonnes,56487,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2011,2011,tonnes,77602,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,515,Apples,2012,2012,tonnes,110289,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2003,2003,tonnes,1605,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2004,2004,tonnes,1583,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2005,2005,tonnes,1764,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2006,2006,tonnes,2316,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2007,2007,tonnes,3239,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2008,2008,tonnes,2982,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2009,2009,tonnes,2502,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2010,2010,tonnes,2821,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2011,2011,tonnes,2903,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2012,2012,tonnes,3678,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2013,2013,tonnes,4255,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,10,Australia,5510,Production,552,Blueberries,2014,2014,tonnes,5020,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1972,1972,tonnes,156358,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1973,1973,tonnes,287462,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1974,1974,tonnes,324203,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1975,1975,tonnes,303746,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1976,1976,tonnes,329261,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1977,1977,tonnes,263508,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1978,1978,tonnes,291186,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1979,1979,tonnes,326357,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1980,1980,tonnes,329932,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1981,1981,tonnes,243199,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1982,1982,tonnes,428819,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1983,1983,tonnes,326547,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,515,Apples,1984,1984,tonnes,353195,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2002,2002,tonnes,128599,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2003,2003,tonnes,154347,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2004,2004,tonnes,137279,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2005,2005,tonnes,163057,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2006,2006,tonnes,178350,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2007,2007,tonnes,187003,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2008,2008,tonnes,205021,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2009,2009,tonnes,204237,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2010,2010,tonnes,211665,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2011,2011,tonnes,223067,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2012,2012,tonnes,234771,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2013,2013,tonnes,246685,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2014,2014,tonnes,252327,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2015,2015,tonnes,256398,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2016,2016,tonnes,254296,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,515,Apples,2017,2017,tonnes,275093,,Official data

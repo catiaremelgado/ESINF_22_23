@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="821px" preserveAspectRatio="none" style="width:599px;height:821px;background:#FFFFFF;" version="1.1" viewBox="0 0 599 821" width="599px" zoomAndPan="magnify"><defs/><g><!--MD5=[cc30f0d8be56bec825528aa7d05b8bdc]
+cluster info--><g id="cluster_info"><path d="M8.5,199 L36.5,199 A3.75,3.75 0 0 1 39,201.5 L46,222.6094 L589.5,222.6094 A2.5,2.5 0 0 1 592,225.1094 L592,811.5 A2.5,2.5 0 0 1 589.5,814 L8.5,814 A2.5,2.5 0 0 1 6,811.5 L6,201.5 A2.5,2.5 0 0 1 8.5,199 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="46" y1="222.6094" y2="222.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="27" x="10" y="215.5332">info</text></g><!--MD5=[205f2d1ac31335f72e220949cede9410]
+class CompletedInfo--><g id="elem_CompletedInfo"><rect codeLine="6" fill="#F1F1F1" height="206.4844" id="CompletedInfo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="553" x="22.5" y="235"/><ellipse cx="249.25" cy="251" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M251.25,247.5 Q251.4531,247 251.6875,246.75 Q251.9219,246.5 252.1875,246.5 Q252.6563,246.5 252.9531,246.7813 Q253.25,247.0625 253.25,247.7188 L253.25,249.2813 Q253.25,249.9375 252.9688,250.2188 Q252.6875,250.5 252.25,250.5 Q251.8594,250.5 251.6094,250.3281 Q251.3594,250.1563 251.25,249.7031 Q251.2031,249.3906 251.0313,249.2188 Q250.7188,248.8906 250.1563,248.7031 Q249.5938,248.5 249.0313,248.5 Q248.3281,248.5 247.7344,248.7813 Q247.1563,249.0625 246.7031,249.6875 Q246.25,250.3125 246.25,251.1719 L246.25,252.0938 Q246.25,253.125 247.0938,253.8125 Q247.9375,254.5 249.4375,254.5 Q250.3281,254.5 250.9531,254.2969 Q251.3125,254.1875 251.7188,253.8281 Q251.9844,253.625 252.125,253.5625 Q252.2656,253.5 252.4375,253.5 Q252.7656,253.5 253,253.7656 Q253.25,254.0156 253.25,254.375 Q253.25,254.7188 252.9063,255.125 Q252.4063,255.7188 251.6094,256.0469 Q250.5625,256.5 249.2813,256.5 Q247.7813,256.5 246.5781,255.9063 Q245.6094,255.4375 244.9219,254.4219 Q244.25,253.4063 244.25,252.2031 L244.25,251.1094 Q244.25,249.8594 244.8438,248.7656 Q245.4531,247.6719 246.5,247.0938 Q247.5625,246.5 248.75,246.5 Q249.4688,246.5 250.0938,246.75 Q250.7188,247 251.25,247.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="269.75" y="256.7285">CompletedInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="574.5" y1="267" y2="267"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30.5" y="278.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="287" x="42.5" y="285.5332">completedInfo : TreeMap&lt;String,CountryInfo&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="574.5" y1="292.6094" y2="292.6094"/><ellipse cx="33.5" cy="306.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="321" x="42.5" y="311.1426">add(fruitName : String, country : CountryInfo) : void</text><ellipse cx="33.5" cy="324.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="228" x="42.5" y="328.752">containsFruit(fruit : String) : boolean</text><ellipse cx="33.5" cy="342.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="353" x="42.5" y="346.3613">containsCountry(fruit : String, country : String) : boolean</text><ellipse cx="33.5" cy="359.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="477" x="42.5" y="363.9707">addAnotherYear(fruit : String, country : String, year : int, quantity : int) : void</text><ellipse cx="33.5" cy="377.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="473" x="42.5" y="381.5801">addNewCountry(fruit : String, country : String, year : int, quantity : int) : void</text><ellipse cx="33.5" cy="394.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="527" x="42.5" y="399.1895">addNewFruitAndCountry(fruit : String, country : String, year : int, quantity : int) : void</text><ellipse cx="33.5" cy="412.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="293" x="42.5" y="416.7988">newYearInfo(year : int, quantity : int) : YearInfo</text><ellipse cx="33.5" cy="430.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="367" x="42.5" y="434.4082">newCountry(country : String, year : YearInfo) : CountryInfo</text></g><!--MD5=[a639f38dc35f6c00a659dac78b1870fd]
+class CountryInfo--><g id="elem_CountryInfo"><rect codeLine="18" fill="#F1F1F1" height="118.4375" id="CountryInfo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="298" x="150" y="519"/><ellipse cx="258.25" cy="535" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M260.25,531.5 Q260.4531,531 260.6875,530.75 Q260.9219,530.5 261.1875,530.5 Q261.6563,530.5 261.9531,530.7813 Q262.25,531.0625 262.25,531.7188 L262.25,533.2813 Q262.25,533.9375 261.9688,534.2188 Q261.6875,534.5 261.25,534.5 Q260.8594,534.5 260.6094,534.3281 Q260.3594,534.1563 260.25,533.7031 Q260.2031,533.3906 260.0313,533.2188 Q259.7188,532.8906 259.1563,532.7031 Q258.5938,532.5 258.0313,532.5 Q257.3281,532.5 256.7344,532.7813 Q256.1563,533.0625 255.7031,533.6875 Q255.25,534.3125 255.25,535.1719 L255.25,536.0938 Q255.25,537.125 256.0938,537.8125 Q256.9375,538.5 258.4375,538.5 Q259.3281,538.5 259.9531,538.2969 Q260.3125,538.1875 260.7188,537.8281 Q260.9844,537.625 261.125,537.5625 Q261.2656,537.5 261.4375,537.5 Q261.7656,537.5 262,537.7656 Q262.25,538.0156 262.25,538.375 Q262.25,538.7188 261.9063,539.125 Q261.4063,539.7188 260.6094,540.0469 Q259.5625,540.5 258.2813,540.5 Q256.7813,540.5 255.5781,539.9063 Q254.6094,539.4375 253.9219,538.4219 Q253.25,537.4063 253.25,536.2031 L253.25,535.1094 Q253.25,533.8594 253.8438,532.7656 Q254.4531,531.6719 255.5,531.0938 Q256.5625,530.5 257.75,530.5 Q258.4688,530.5 259.0938,530.75 Q259.7188,531 260.25,531.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="278.75" y="540.7285">CountryInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="151" x2="447" y1="551" y2="551"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="158" y="562.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="253" x="170" y="569.5332">countryInfo : TreeMap&lt;String, YearInfo&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="151" x2="447" y1="576.6094" y2="576.6094"/><ellipse cx="161" cy="590.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="269" x="170" y="595.1426">add(country : String, year : YearInfo) : void</text><ellipse cx="161" cy="608.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="272" x="170" y="612.752">containsCountry(country : String) : boolean</text><ellipse cx="161" cy="626.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="257" x="170" y="630.3613">getByCountry(country : String) : YearInfo</text></g><!--MD5=[f22f3f93f78a8ebade6d18d9d7e62eed]
+class YearInfo--><g id="elem_YearInfo"><rect codeLine="25" fill="#F1F1F1" height="83.2188" id="YearInfo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="258" x="170" y="715"/><ellipse cx="268.25" cy="731" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M270.25,727.5 Q270.4531,727 270.6875,726.75 Q270.9219,726.5 271.1875,726.5 Q271.6563,726.5 271.9531,726.7813 Q272.25,727.0625 272.25,727.7188 L272.25,729.2813 Q272.25,729.9375 271.9688,730.2188 Q271.6875,730.5 271.25,730.5 Q270.8594,730.5 270.6094,730.3281 Q270.3594,730.1563 270.25,729.7031 Q270.2031,729.3906 270.0313,729.2188 Q269.7188,728.8906 269.1563,728.7031 Q268.5938,728.5 268.0313,728.5 Q267.3281,728.5 266.7344,728.7813 Q266.1563,729.0625 265.7031,729.6875 Q265.25,730.3125 265.25,731.1719 L265.25,732.0938 Q265.25,733.125 266.0938,733.8125 Q266.9375,734.5 268.4375,734.5 Q269.3281,734.5 269.9531,734.2969 Q270.3125,734.1875 270.7188,733.8281 Q270.9844,733.625 271.125,733.5625 Q271.2656,733.5 271.4375,733.5 Q271.7656,733.5 272,733.7656 Q272.25,734.0156 272.25,734.375 Q272.25,734.7188 271.9063,735.125 Q271.4063,735.7188 270.6094,736.0469 Q269.5625,736.5 268.2813,736.5 Q266.7813,736.5 265.5781,735.9063 Q264.6094,735.4375 263.9219,734.4219 Q263.25,733.4063 263.25,732.2031 L263.25,731.1094 Q263.25,729.8594 263.8438,728.7656 Q264.4531,727.6719 265.5,727.0938 Q266.5625,726.5 267.75,726.5 Q268.4688,726.5 269.0938,726.75 Q269.7188,727 270.25,727.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="288.75" y="736.7285">YearInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="171" x2="427" y1="747" y2="747"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="178" y="758.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="190" y="765.5332">yearInfo : TreeMap&lt;Integer, Integer&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="171" x2="427" y1="772.6094" y2="772.6094"/><ellipse cx="181" cy="786.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="204" x="190" y="791.1426">add(year: int, quantity: int) : void</text></g><!--MD5=[bf82af195f6fb0e09b148dca19d8f112]
+class Store_Data--><g id="elem_Store_Data"><rect codeLine="31" fill="#F1F1F1" height="65.6094" id="Store_Data" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="297" x="150.5" y="7"/><ellipse cx="258.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M260.75,19.5 Q260.9531,19 261.1875,18.75 Q261.4219,18.5 261.6875,18.5 Q262.1563,18.5 262.4531,18.7813 Q262.75,19.0625 262.75,19.7188 L262.75,21.2813 Q262.75,21.9375 262.4688,22.2188 Q262.1875,22.5 261.75,22.5 Q261.3594,22.5 261.1094,22.3281 Q260.8594,22.1563 260.75,21.7031 Q260.7031,21.3906 260.5313,21.2188 Q260.2188,20.8906 259.6563,20.7031 Q259.0938,20.5 258.5313,20.5 Q257.8281,20.5 257.2344,20.7813 Q256.6563,21.0625 256.2031,21.6875 Q255.75,22.3125 255.75,23.1719 L255.75,24.0938 Q255.75,25.125 256.5938,25.8125 Q257.4375,26.5 258.9375,26.5 Q259.8281,26.5 260.4531,26.2969 Q260.8125,26.1875 261.2188,25.8281 Q261.4844,25.625 261.625,25.5625 Q261.7656,25.5 261.9375,25.5 Q262.2656,25.5 262.5,25.7656 Q262.75,26.0156 262.75,26.375 Q262.75,26.7188 262.4063,27.125 Q261.9063,27.7188 261.1094,28.0469 Q260.0625,28.5 258.7813,28.5 Q257.2813,28.5 256.0781,27.9063 Q255.1094,27.4375 254.4219,26.4219 Q253.75,25.4063 253.75,24.2031 L253.75,23.1094 Q253.75,21.8594 254.3438,20.7656 Q254.9531,19.6719 256,19.0938 Q257.0625,18.5 258.25,18.5 Q258.9688,18.5 259.5938,18.75 Q260.2188,19 260.75,19.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="279.25" y="28.7285">Store_Data</text><line style="stroke:#181818;stroke-width:0.5;" x1="151.5" x2="446.5" y1="39" y2="39"/><line style="stroke:#181818;stroke-width:0.5;" x1="151.5" x2="446.5" y1="47" y2="47"/><ellipse cx="161.5" cy="61.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="271" x="170.5" y="65.5332">storeInfo(fileName : String) : CompletedInfo</text></g><!--MD5=[5c842bec08281415ba718efe410d6b6f]
+link CountryInfo to YearInfo--><g id="link_CountryInfo_YearInfo"><path codeLine="36" d="M299,637.28 C299,660.8 299,687.54 299,709.63 " fill="none" id="CountryInfo-to-YearInfo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="299,714.85,303,705.85,299,709.85,295,705.85,299,714.85" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="300" y="681.4951">uses</text></g><!--MD5=[5be16344752c5f821b1f6a1960b6e05c]
+link CompletedInfo to CountryInfo--><g id="link_CompletedInfo_CountryInfo"><path codeLine="37" d="M299,441.31 C299,465.81 299,491.26 299,513.42 " fill="none" id="CompletedInfo-to-CountryInfo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="299,518.68,303,509.68,299,513.68,295,509.68,299,518.68" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="300" y="485.4951">uses</text></g><!--MD5=[b09d2028e27c28db4a0e6bbca8296bb3]
+link Store_Data to CompletedInfo--><g id="link_Store_Data_CompletedInfo"><path codeLine="38" d="M299,73.24 C299,110.62 299,174.18 299,229.55 " fill="none" id="Store_Data-to-CompletedInfo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="299,234.88,303,225.88,299,229.88,295,225.88,299,234.88" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="300" y="148.4951">uses</text></g><!--MD5=[f157092c86295fc69397121d28a43d89]
+@startuml
+'https://plantuml.com/class-diagram
+
+
+
+package info{
+class CompletedInfo
+{
+    - completedInfo : TreeMap<String,CountryInfo>
+    + add(fruitName : String, country : CountryInfo) : void
+    + containsFruit(fruit : String) : boolean
+    + containsCountry(fruit : String, country : String) : boolean
+    + addAnotherYear(fruit : String, country : String, year : int, quantity : int) : void
+    + addNewCountry(fruit : String, country : String, year : int, quantity : int) : void
+    + addNewFruitAndCountry(fruit : String, country : String, year : int, quantity : int) : void
+    + newYearInfo(year : int, quantity : int) : YearInfo
+    + newCountry(country : String, year : YearInfo) : CountryInfo
+}
+class CountryInfo
+ {
+     - countryInfo : TreeMap<String, YearInfo>
+     + add(country : String, year : YearInfo) : void
+     + containsCountry(country : String) : boolean
+     + getByCountry(country : String) : YearInfo
+ }
+ class YearInfo
+  {
+      - yearInfo : TreeMap<Integer, Integer>
+      + add(year: int, quantity: int) : void
+  }
+}
+class Store_Data
+{
+    + storeInfo(fileName : String) : CompletedInfo
+}
+
+CountryInfo  - -> YearInfo: uses
+CompletedInfo  - -> CountryInfo: uses
+Store_Data  - - -> CompletedInfo: uses
+
+@enduml
+
+@startuml
+
+
+
+package info{
+class CompletedInfo
+{
+    - completedInfo : TreeMap<String,CountryInfo>
+    + add(fruitName : String, country : CountryInfo) : void
+    + containsFruit(fruit : String) : boolean
+    + containsCountry(fruit : String, country : String) : boolean
+    + addAnotherYear(fruit : String, country : String, year : int, quantity : int) : void
+    + addNewCountry(fruit : String, country : String, year : int, quantity : int) : void
+    + addNewFruitAndCountry(fruit : String, country : String, year : int, quantity : int) : void
+    + newYearInfo(year : int, quantity : int) : YearInfo
+    + newCountry(country : String, year : YearInfo) : CountryInfo
+}
+class CountryInfo
+ {
+     - countryInfo : TreeMap<String, YearInfo>
+     + add(country : String, year : YearInfo) : void
+     + containsCountry(country : String) : boolean
+     + getByCountry(country : String) : YearInfo
+ }
+ class YearInfo
+  {
+      - yearInfo : TreeMap<Integer, Integer>
+      + add(year: int, quantity: int) : void
+  }
+}
+class Store_Data
+{
+    + storeInfo(fileName : String) : CompletedInfo
+}
+
+CountryInfo  - -> YearInfo: uses
+CompletedInfo  - -> CountryInfo: uses
+Store_Data  - - -> CompletedInfo: uses
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 18:01:30 BST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

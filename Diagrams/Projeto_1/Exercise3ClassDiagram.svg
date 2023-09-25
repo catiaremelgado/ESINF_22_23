@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="992px" preserveAspectRatio="none" style="width:1152px;height:992px;background:#FFFFFF;" version="1.1" viewBox="0 0 1152 992" width="1152px" zoomAndPan="magnify"><defs/><g><!--MD5=[d5e4a5cd253ec0f45649f626ed4f4c7f]
+cluster esinf--><g id="cluster_esinf"><path d="M8.5,6 L44.5,6 A3.75,3.75 0 0 1 47,8.5 L54,29.6094 L1132.5,29.6094 A2.5,2.5 0 0 1 1135,32.1094 L1135,982.5 A2.5,2.5 0 0 1 1132.5,985 L8.5,985 A2.5,2.5 0 0 1 6,982.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="54" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="10" y="22.5332">esinf</text></g><!--MD5=[cc30f0d8be56bec825528aa7d05b8bdc]
+cluster info--><g id="cluster_info"><path d="M32.5,612 L60.5,612 A3.75,3.75 0 0 1 63,614.5 L70,635.6094 L1021.5,635.6094 A2.5,2.5 0 0 1 1024,638.1094 L1024,762.5 A2.5,2.5 0 0 1 1021.5,765 L32.5,765 A2.5,2.5 0 0 1 30,762.5 L30,614.5 A2.5,2.5 0 0 1 32.5,612 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="30" x2="70" y1="635.6094" y2="635.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="27" x="34" y="628.5332">info</text></g><!--MD5=[4961858ba60a80fca8bbb5fbe0a9a4e5]
+cluster entries--><g id="cluster_entries"><path d="M317.5,189 L368.5,189 A3.75,3.75 0 0 1 371,191.5 L378,212.6094 L938.5,212.6094 A2.5,2.5 0 0 1 941,215.1094 L941,339.5 A2.5,2.5 0 0 1 938.5,342 L317.5,342 A2.5,2.5 0 0 1 315,339.5 L315,191.5 A2.5,2.5 0 0 1 317.5,189 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="315" x2="378" y1="212.6094" y2="212.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="50" x="319" y="205.5332">entries</text></g><!--MD5=[37c53a0b0659d0066295190490b19e0a]
+cluster iterators--><g id="cluster_iterators"><path d="M251.5,392 L312.5,392 A3.75,3.75 0 0 1 315,394.5 L322,415.6094 L1108.5,415.6094 A2.5,2.5 0 0 1 1111,418.1094 L1111,559.5 A2.5,2.5 0 0 1 1108.5,562 L251.5,562 A2.5,2.5 0 0 1 249,559.5 L249,394.5 A2.5,2.5 0 0 1 251.5,392 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="249" x2="322" y1="415.6094" y2="415.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="60" x="253" y="408.5332">iterators</text></g><!--MD5=[cab5139860638360f6a01b271420c411]
+class MinimumNumberOfCountriesForQ--><g id="elem_MinimumNumberOfCountriesForQ"><rect codeLine="5" fill="#F1F1F1" height="83.2188" id="MinimumNumberOfCountriesForQ" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="607" x="249.5" y="42"/><ellipse cx="442.25" cy="58" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M444.25,54.5 Q444.4531,54 444.6875,53.75 Q444.9219,53.5 445.1875,53.5 Q445.6563,53.5 445.9531,53.7813 Q446.25,54.0625 446.25,54.7188 L446.25,56.2813 Q446.25,56.9375 445.9688,57.2188 Q445.6875,57.5 445.25,57.5 Q444.8594,57.5 444.6094,57.3281 Q444.3594,57.1563 444.25,56.7031 Q444.2031,56.3906 444.0313,56.2188 Q443.7188,55.8906 443.1563,55.7031 Q442.5938,55.5 442.0313,55.5 Q441.3281,55.5 440.7344,55.7813 Q440.1563,56.0625 439.7031,56.6875 Q439.25,57.3125 439.25,58.1719 L439.25,59.0938 Q439.25,60.125 440.0938,60.8125 Q440.9375,61.5 442.4375,61.5 Q443.3281,61.5 443.9531,61.2969 Q444.3125,61.1875 444.7188,60.8281 Q444.9844,60.625 445.125,60.5625 Q445.2656,60.5 445.4375,60.5 Q445.7656,60.5 446,60.7656 Q446.25,61.0156 446.25,61.375 Q446.25,61.7188 445.9063,62.125 Q445.4063,62.7188 444.6094,63.0469 Q443.5625,63.5 442.2813,63.5 Q440.7813,63.5 439.5781,62.9063 Q438.6094,62.4375 437.9219,61.4219 Q437.25,60.4063 437.25,59.2031 L437.25,58.1094 Q437.25,56.8594 437.8438,55.7656 Q438.4531,54.6719 439.5,54.0938 Q440.5625,53.5 441.75,53.5 Q442.4688,53.5 443.0938,53.75 Q443.7188,54 444.25,54.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="213" x="462.75" y="63.7285">MinimumNumberOfCountriesForQ</text><line style="stroke:#181818;stroke-width:0.5;" x1="250.5" x2="855.5" y1="74" y2="74"/><line style="stroke:#181818;stroke-width:0.5;" x1="250.5" x2="855.5" y1="82" y2="82"/><ellipse cx="260.5" cy="96.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="581" x="269.5" y="100.5332">MinimumNumberOfCountriesForQ(CompletedInfo allInfo, BigInteger wantedQuantity): Integer</text><ellipse cx="260.5" cy="113.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="557" x="269.5" y="118.1426">ProcessCompletedInfoForExercise3(CompletedInfo allInfo): TreeMap&lt;String, BigInteger&gt;</text></g><!--MD5=[023ecf6702e3ca2ce47ae747eafb20f1]
+class Iterator--><g id="elem_Iterator"><rect codeLine="37" fill="#F1F1F1" height="48" id="Iterator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="78" x="1041" y="921"/><ellipse cx="1056" cy="937" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1057,934 L1057,940 L1059,940 L1059.4844,940 L1060,940.625 L1060,941 L1060,941.375 L1059.4844,942 L1059,942 L1053,942 L1052.5156,942 L1052,941.375 L1052,941 L1052,940.625 L1052.5156,940 L1053,940 L1055,940 L1055,934 L1053,934 L1052.5156,934 L1052,933.375 L1052,933 L1052,932.625 L1052.5156,932 L1053,932 L1059,932 L1059.4844,932 L1060,932.625 L1060,933 L1060,933.375 L1059.4844,934 L1059,934 L1057,934 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="46" x="1070" y="942.7285">Iterator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1042" x2="1118" y1="953" y2="953"/><line style="stroke:#181818;stroke-width:0.5;" x1="1042" x2="1118" y1="961" y2="961"/></g><!--MD5=[47de47a8b5f06cbc5e036fae0a9149b7]
+class Iterable--><g id="elem_Iterable"><rect codeLine="78" fill="#F1F1F1" height="48" id="Iterable" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="80" x="533" y="812"/><ellipse cx="548" cy="828" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M549,825 L549,831 L551,831 L551.4844,831 L552,831.625 L552,832 L552,832.375 L551.4844,833 L551,833 L545,833 L544.5156,833 L544,832.375 L544,832 L544,831.625 L544.5156,831 L545,831 L547,831 L547,825 L545,825 L544.5156,825 L544,824.375 L544,824 L544,823.625 L544.5156,823 L545,823 L551,823 L551.4844,823 L552,823.625 L552,824 L552,824.375 L551.4844,825 L551,825 L549,825 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="48" x="562" y="833.7285">Iterable</text><line style="stroke:#181818;stroke-width:0.5;" x1="534" x2="612" y1="844" y2="844"/><line style="stroke:#181818;stroke-width:0.5;" x1="534" x2="612" y1="852" y2="852"/></g><!--MD5=[205f2d1ac31335f72e220949cede9410]
+class CompletedInfo--><g id="elem_CompletedInfo"><rect codeLine="10" fill="#F1F1F1" height="83.2188" id="CompletedInfo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="350" x="46" y="657"/><ellipse cx="171.25" cy="673" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M173.25,669.5 Q173.4531,669 173.6875,668.75 Q173.9219,668.5 174.1875,668.5 Q174.6563,668.5 174.9531,668.7813 Q175.25,669.0625 175.25,669.7188 L175.25,671.2813 Q175.25,671.9375 174.9688,672.2188 Q174.6875,672.5 174.25,672.5 Q173.8594,672.5 173.6094,672.3281 Q173.3594,672.1563 173.25,671.7031 Q173.2031,671.3906 173.0313,671.2188 Q172.7188,670.8906 172.1563,670.7031 Q171.5938,670.5 171.0313,670.5 Q170.3281,670.5 169.7344,670.7813 Q169.1563,671.0625 168.7031,671.6875 Q168.25,672.3125 168.25,673.1719 L168.25,674.0938 Q168.25,675.125 169.0938,675.8125 Q169.9375,676.5 171.4375,676.5 Q172.3281,676.5 172.9531,676.2969 Q173.3125,676.1875 173.7188,675.8281 Q173.9844,675.625 174.125,675.5625 Q174.2656,675.5 174.4375,675.5 Q174.7656,675.5 175,675.7656 Q175.25,676.0156 175.25,676.375 Q175.25,676.7188 174.9063,677.125 Q174.4063,677.7188 173.6094,678.0469 Q172.5625,678.5 171.2813,678.5 Q169.7813,678.5 168.5781,677.9063 Q167.6094,677.4375 166.9219,676.4219 Q166.25,675.4063 166.25,674.2031 L166.25,673.1094 Q166.25,671.8594 166.8438,670.7656 Q167.4531,669.6719 168.5,669.0938 Q169.5625,668.5 170.75,668.5 Q171.4688,668.5 172.0938,668.75 Q172.7188,669 173.25,669.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="191.75" y="678.7285">CompletedInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="47" x2="395" y1="689" y2="689"/><line style="stroke:#181818;stroke-width:0.5;" x1="47" x2="395" y1="697" y2="697"/><ellipse cx="57" cy="711.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="324" x="66" y="715.5332">getCompletedInfo() : TreeMap&lt;String, CountryInfo&gt;</text><ellipse cx="57" cy="728.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="190" x="66" y="733.1426">iterator() : Iterator&lt;FruitEntry&gt;</text></g><!--MD5=[a639f38dc35f6c00a659dac78b1870fd]
+class CountryInfo--><g id="elem_CountryInfo"><rect codeLine="63" fill="#F1F1F1" height="100.8281" id="CountryInfo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="283" x="431.5" y="648"/><ellipse cx="532.25" cy="664" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M534.25,660.5 Q534.4531,660 534.6875,659.75 Q534.9219,659.5 535.1875,659.5 Q535.6563,659.5 535.9531,659.7813 Q536.25,660.0625 536.25,660.7188 L536.25,662.2813 Q536.25,662.9375 535.9688,663.2188 Q535.6875,663.5 535.25,663.5 Q534.8594,663.5 534.6094,663.3281 Q534.3594,663.1563 534.25,662.7031 Q534.2031,662.3906 534.0313,662.2188 Q533.7188,661.8906 533.1563,661.7031 Q532.5938,661.5 532.0313,661.5 Q531.3281,661.5 530.7344,661.7813 Q530.1563,662.0625 529.7031,662.6875 Q529.25,663.3125 529.25,664.1719 L529.25,665.0938 Q529.25,666.125 530.0938,666.8125 Q530.9375,667.5 532.4375,667.5 Q533.3281,667.5 533.9531,667.2969 Q534.3125,667.1875 534.7188,666.8281 Q534.9844,666.625 535.125,666.5625 Q535.2656,666.5 535.4375,666.5 Q535.7656,666.5 536,666.7656 Q536.25,667.0156 536.25,667.375 Q536.25,667.7188 535.9063,668.125 Q535.4063,668.7188 534.6094,669.0469 Q533.5625,669.5 532.2813,669.5 Q530.7813,669.5 529.5781,668.9063 Q528.6094,668.4375 527.9219,667.4219 Q527.25,666.4063 527.25,665.2031 L527.25,664.1094 Q527.25,662.8594 527.8438,661.7656 Q528.4531,660.6719 529.5,660.0938 Q530.5625,659.5 531.75,659.5 Q532.4688,659.5 533.0938,659.75 Q533.7188,660 534.25,660.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="552.75" y="669.7285">CountryInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="432.5" x2="713.5" y1="680" y2="680"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="439.5" y="691.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="253" x="451.5" y="698.5332">countryInfo : TreeMap&lt;String, YearInfo&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="432.5" x2="713.5" y1="705.6094" y2="705.6094"/><ellipse cx="442.5" cy="719.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="211" x="451.5" y="724.1426">iterator() : Iterator&lt;CountryEntry&gt;</text><ellipse cx="442.5" cy="737.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="257" x="451.5" y="741.752">getByCountry(country : String) : YearInfo</text></g><!--MD5=[f22f3f93f78a8ebade6d18d9d7e62eed]
+class YearInfo--><g id="elem_YearInfo"><rect codeLine="70" fill="#F1F1F1" height="83.2188" id="YearInfo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="258" x="750" y="657"/><ellipse cx="848.25" cy="673" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M850.25,669.5 Q850.4531,669 850.6875,668.75 Q850.9219,668.5 851.1875,668.5 Q851.6563,668.5 851.9531,668.7813 Q852.25,669.0625 852.25,669.7188 L852.25,671.2813 Q852.25,671.9375 851.9688,672.2188 Q851.6875,672.5 851.25,672.5 Q850.8594,672.5 850.6094,672.3281 Q850.3594,672.1563 850.25,671.7031 Q850.2031,671.3906 850.0313,671.2188 Q849.7188,670.8906 849.1563,670.7031 Q848.5938,670.5 848.0313,670.5 Q847.3281,670.5 846.7344,670.7813 Q846.1563,671.0625 845.7031,671.6875 Q845.25,672.3125 845.25,673.1719 L845.25,674.0938 Q845.25,675.125 846.0938,675.8125 Q846.9375,676.5 848.4375,676.5 Q849.3281,676.5 849.9531,676.2969 Q850.3125,676.1875 850.7188,675.8281 Q850.9844,675.625 851.125,675.5625 Q851.2656,675.5 851.4375,675.5 Q851.7656,675.5 852,675.7656 Q852.25,676.0156 852.25,676.375 Q852.25,676.7188 851.9063,677.125 Q851.4063,677.7188 850.6094,678.0469 Q849.5625,678.5 848.2813,678.5 Q846.7813,678.5 845.5781,677.9063 Q844.6094,677.4375 843.9219,676.4219 Q843.25,675.4063 843.25,674.2031 L843.25,673.1094 Q843.25,671.8594 843.8438,670.7656 Q844.4531,669.6719 845.5,669.0938 Q846.5625,668.5 847.75,668.5 Q848.4688,668.5 849.0938,668.75 Q849.7188,669 850.25,669.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="868.75" y="678.7285">YearInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="751" x2="1007" y1="689" y2="689"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="758" y="700.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="770" y="707.5332">yearInfo : TreeMap&lt;Integer, Integer&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="751" x2="1007" y1="714.6094" y2="714.6094"/><ellipse cx="761" cy="728.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="770" y="733.1426">iterator() : Iterator&lt;YearEntry&gt;</text></g><!--MD5=[5dc9c5e9afd166c5f734990ca6e7f2e3]
+class FruitEntry--><g id="elem_FruitEntry"><rect codeLine="16" fill="#F1F1F1" height="100.8281" id="FruitEntry" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="214" x="331" y="225"/><ellipse cx="402.75" cy="241" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M404.75,237.5 Q404.9531,237 405.1875,236.75 Q405.4219,236.5 405.6875,236.5 Q406.1563,236.5 406.4531,236.7813 Q406.75,237.0625 406.75,237.7188 L406.75,239.2813 Q406.75,239.9375 406.4688,240.2188 Q406.1875,240.5 405.75,240.5 Q405.3594,240.5 405.1094,240.3281 Q404.8594,240.1563 404.75,239.7031 Q404.7031,239.3906 404.5313,239.2188 Q404.2188,238.8906 403.6563,238.7031 Q403.0938,238.5 402.5313,238.5 Q401.8281,238.5 401.2344,238.7813 Q400.6563,239.0625 400.2031,239.6875 Q399.75,240.3125 399.75,241.1719 L399.75,242.0938 Q399.75,243.125 400.5938,243.8125 Q401.4375,244.5 402.9375,244.5 Q403.8281,244.5 404.4531,244.2969 Q404.8125,244.1875 405.2188,243.8281 Q405.4844,243.625 405.625,243.5625 Q405.7656,243.5 405.9375,243.5 Q406.2656,243.5 406.5,243.7656 Q406.75,244.0156 406.75,244.375 Q406.75,244.7188 406.4063,245.125 Q405.9063,245.7188 405.1094,246.0469 Q404.0625,246.5 402.7813,246.5 Q401.2813,246.5 400.0781,245.9063 Q399.1094,245.4375 398.4219,244.4219 Q397.75,243.4063 397.75,242.2031 L397.75,241.1094 Q397.75,239.8594 398.3438,238.7656 Q398.9531,237.6719 400,237.0938 Q401.0625,236.5 402.25,236.5 Q402.9688,236.5 403.5938,236.75 Q404.2188,237 404.75,237.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="423.25" y="246.7285">FruitEntry</text><line style="stroke:#181818;stroke-width:0.5;" x1="332" x2="544" y1="257" y2="257"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="339" y="268.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="351" y="275.5332">fruit : String</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="339" y="285.9141"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="351" y="293.1426">country : CountryInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="332" x2="544" y1="300.2188" y2="300.2188"/><ellipse cx="342" cy="314.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="188" x="351" y="318.752">getCountryInfo() : CountryInfo</text></g><!--MD5=[e5467bab3259cc4f45d80726fa9c164d]
+class CountryEntry--><g id="elem_CountryEntry"><rect codeLine="24" fill="#F1F1F1" height="100.8281" id="CountryEntry" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="174" x="580" y="225"/><ellipse cx="621.55" cy="241" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M623.55,237.5 Q623.7531,237 623.9875,236.75 Q624.2219,236.5 624.4875,236.5 Q624.9563,236.5 625.2531,236.7813 Q625.55,237.0625 625.55,237.7188 L625.55,239.2813 Q625.55,239.9375 625.2688,240.2188 Q624.9875,240.5 624.55,240.5 Q624.1594,240.5 623.9094,240.3281 Q623.6594,240.1563 623.55,239.7031 Q623.5031,239.3906 623.3313,239.2188 Q623.0188,238.8906 622.4563,238.7031 Q621.8938,238.5 621.3313,238.5 Q620.6281,238.5 620.0344,238.7813 Q619.4563,239.0625 619.0031,239.6875 Q618.55,240.3125 618.55,241.1719 L618.55,242.0938 Q618.55,243.125 619.3938,243.8125 Q620.2375,244.5 621.7375,244.5 Q622.6281,244.5 623.2531,244.2969 Q623.6125,244.1875 624.0188,243.8281 Q624.2844,243.625 624.425,243.5625 Q624.5656,243.5 624.7375,243.5 Q625.0656,243.5 625.3,243.7656 Q625.55,244.0156 625.55,244.375 Q625.55,244.7188 625.2063,245.125 Q624.7063,245.7188 623.9094,246.0469 Q622.8625,246.5 621.5813,246.5 Q620.0813,246.5 618.8781,245.9063 Q617.9094,245.4375 617.2219,244.4219 Q616.55,243.4063 616.55,242.2031 L616.55,241.1094 Q616.55,239.8594 617.1438,238.7656 Q617.7531,237.6719 618.8,237.0938 Q619.8625,236.5 621.05,236.5 Q621.7688,236.5 622.3938,236.75 Q623.0188,237 623.55,237.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="641.45" y="246.7285">CountryEntry</text><line style="stroke:#181818;stroke-width:0.5;" x1="581" x2="753" y1="257" y2="257"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="588" y="268.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="600" y="275.5332">year : YearInfo</text><line style="stroke:#181818;stroke-width:0.5;" x1="581" x2="753" y1="282.6094" y2="282.6094"/><ellipse cx="591" cy="296.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="600" y="301.1426">getCountry() : String</text><ellipse cx="591" cy="314.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="600" y="318.752">getYearInfo() : YearInfo</text></g><!--MD5=[08101f290e8d4dfa7d8f3bfc0b99c3e7]
+class YearEntry--><g id="elem_YearEntry"><rect codeLine="31" fill="#F1F1F1" height="83.2188" id="YearEntry" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="136" x="789" y="234"/><ellipse cx="822.45" cy="250" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M824.45,246.5 Q824.6531,246 824.8875,245.75 Q825.1219,245.5 825.3875,245.5 Q825.8563,245.5 826.1531,245.7813 Q826.45,246.0625 826.45,246.7188 L826.45,248.2813 Q826.45,248.9375 826.1688,249.2188 Q825.8875,249.5 825.45,249.5 Q825.0594,249.5 824.8094,249.3281 Q824.5594,249.1563 824.45,248.7031 Q824.4031,248.3906 824.2313,248.2188 Q823.9188,247.8906 823.3563,247.7031 Q822.7938,247.5 822.2313,247.5 Q821.5281,247.5 820.9344,247.7813 Q820.3563,248.0625 819.9031,248.6875 Q819.45,249.3125 819.45,250.1719 L819.45,251.0938 Q819.45,252.125 820.2938,252.8125 Q821.1375,253.5 822.6375,253.5 Q823.5281,253.5 824.1531,253.2969 Q824.5125,253.1875 824.9188,252.8281 Q825.1844,252.625 825.325,252.5625 Q825.4656,252.5 825.6375,252.5 Q825.9656,252.5 826.2,252.7656 Q826.45,253.0156 826.45,253.375 Q826.45,253.7188 826.1063,254.125 Q825.6063,254.7188 824.8094,255.0469 Q823.7625,255.5 822.4813,255.5 Q820.9813,255.5 819.7781,254.9063 Q818.8094,254.4375 818.1219,253.4219 Q817.45,252.4063 817.45,251.2031 L817.45,250.1094 Q817.45,248.8594 818.0438,247.7656 Q818.6531,246.6719 819.7,246.0938 Q820.7625,245.5 821.95,245.5 Q822.6688,245.5 823.2938,245.75 Q823.9188,246 824.45,246.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="840.55" y="255.7285">YearEntry</text><line style="stroke:#181818;stroke-width:0.5;" x1="790" x2="924" y1="266" y2="266"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="797" y="277.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="809" y="284.5332">quantity : int</text><line style="stroke:#181818;stroke-width:0.5;" x1="790" x2="924" y1="291.6094" y2="291.6094"/><ellipse cx="800" cy="305.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="809" y="310.1426">getQuantity() : int</text></g><!--MD5=[0b1f139e2121040cd5dca8f11e0212e1]
+class FruitInfoIterator--><g id="elem_FruitInfoIterator"><rect codeLine="41" fill="#F1F1F1" height="118.4375" id="FruitInfoIterator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="267" x="265.5" y="428"/><ellipse cx="346.25" cy="444" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M348.25,440.5 Q348.4531,440 348.6875,439.75 Q348.9219,439.5 349.1875,439.5 Q349.6563,439.5 349.9531,439.7813 Q350.25,440.0625 350.25,440.7188 L350.25,442.2813 Q350.25,442.9375 349.9688,443.2188 Q349.6875,443.5 349.25,443.5 Q348.8594,443.5 348.6094,443.3281 Q348.3594,443.1563 348.25,442.7031 Q348.2031,442.3906 348.0313,442.2188 Q347.7188,441.8906 347.1563,441.7031 Q346.5938,441.5 346.0313,441.5 Q345.3281,441.5 344.7344,441.7813 Q344.1563,442.0625 343.7031,442.6875 Q343.25,443.3125 343.25,444.1719 L343.25,445.0938 Q343.25,446.125 344.0938,446.8125 Q344.9375,447.5 346.4375,447.5 Q347.3281,447.5 347.9531,447.2969 Q348.3125,447.1875 348.7188,446.8281 Q348.9844,446.625 349.125,446.5625 Q349.2656,446.5 349.4375,446.5 Q349.7656,446.5 350,446.7656 Q350.25,447.0156 350.25,447.375 Q350.25,447.7188 349.9063,448.125 Q349.4063,448.7188 348.6094,449.0469 Q347.5625,449.5 346.2813,449.5 Q344.7813,449.5 343.5781,448.9063 Q342.6094,448.4375 341.9219,447.4219 Q341.25,446.4063 341.25,445.2031 L341.25,444.1094 Q341.25,442.8594 341.8438,441.7656 Q342.4531,440.6719 343.5,440.0938 Q344.5625,439.5 345.75,439.5 Q346.4688,439.5 347.0938,439.75 Q347.7188,440 348.25,440.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="366.75" y="449.7285">FruitInfoIterator</text><line style="stroke:#181818;stroke-width:0.5;" x1="266.5" x2="531.5" y1="460" y2="460"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="255" x="271.5" y="478.5332">current : Map.Entry&lt;String, CountryInfo&gt;</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="271.5" y="496.1426">list : TreeMap&lt;String, CountryInfo&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="266.5" x2="531.5" y1="503.2188" y2="503.2188"/><ellipse cx="276.5" cy="517.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="285.5" y="521.752">hasNext(): boolean</text><ellipse cx="276.5" cy="535.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="285.5" y="539.3613">next(): T</text></g><!--MD5=[94e259627a9efd0928f679d5a98db5f9]
+class CountryInfoIterator--><g id="elem_CountryInfoIterator"><rect codeLine="48" fill="#F1F1F1" height="118.4375" id="CountryInfoIterator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="247" x="567.5" y="428"/><ellipse cx="627.75" cy="444" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M629.75,440.5 Q629.9531,440 630.1875,439.75 Q630.4219,439.5 630.6875,439.5 Q631.1563,439.5 631.4531,439.7813 Q631.75,440.0625 631.75,440.7188 L631.75,442.2813 Q631.75,442.9375 631.4688,443.2188 Q631.1875,443.5 630.75,443.5 Q630.3594,443.5 630.1094,443.3281 Q629.8594,443.1563 629.75,442.7031 Q629.7031,442.3906 629.5313,442.2188 Q629.2188,441.8906 628.6563,441.7031 Q628.0938,441.5 627.5313,441.5 Q626.8281,441.5 626.2344,441.7813 Q625.6563,442.0625 625.2031,442.6875 Q624.75,443.3125 624.75,444.1719 L624.75,445.0938 Q624.75,446.125 625.5938,446.8125 Q626.4375,447.5 627.9375,447.5 Q628.8281,447.5 629.4531,447.2969 Q629.8125,447.1875 630.2188,446.8281 Q630.4844,446.625 630.625,446.5625 Q630.7656,446.5 630.9375,446.5 Q631.2656,446.5 631.5,446.7656 Q631.75,447.0156 631.75,447.375 Q631.75,447.7188 631.4063,448.125 Q630.9063,448.7188 630.1094,449.0469 Q629.0625,449.5 627.7813,449.5 Q626.2813,449.5 625.0781,448.9063 Q624.1094,448.4375 623.4219,447.4219 Q622.75,446.4063 622.75,445.2031 L622.75,444.1094 Q622.75,442.8594 623.3438,441.7656 Q623.9531,440.6719 625,440.0938 Q626.0625,439.5 627.25,439.5 Q627.9688,439.5 628.5938,439.75 Q629.2188,440 629.75,440.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="648.25" y="449.7285">CountryInfoIterator</text><line style="stroke:#181818;stroke-width:0.5;" x1="568.5" x2="813.5" y1="460" y2="460"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="235" x="573.5" y="478.5332">current : Map.Entry&lt;String, YearInfo&gt;</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="200" x="573.5" y="496.1426">list : TreeMap&lt;String, YearInfo&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="568.5" x2="813.5" y1="503.2188" y2="503.2188"/><ellipse cx="578.5" cy="517.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="587.5" y="521.752">hasNext(): boolean</text><ellipse cx="578.5" cy="535.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="587.5" y="539.3613">next(): T</text></g><!--MD5=[1018140b25fdfb4b10ba160db11d4b27]
+class YearInfoIterator--><g id="elem_YearInfoIterator"><rect codeLine="54" fill="#F1F1F1" height="118.4375" id="YearInfoIterator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="245" x="849.5" y="428"/><ellipse cx="918.75" cy="444" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M920.75,440.5 Q920.9531,440 921.1875,439.75 Q921.4219,439.5 921.6875,439.5 Q922.1563,439.5 922.4531,439.7813 Q922.75,440.0625 922.75,440.7188 L922.75,442.2813 Q922.75,442.9375 922.4688,443.2188 Q922.1875,443.5 921.75,443.5 Q921.3594,443.5 921.1094,443.3281 Q920.8594,443.1563 920.75,442.7031 Q920.7031,442.3906 920.5313,442.2188 Q920.2188,441.8906 919.6563,441.7031 Q919.0938,441.5 918.5313,441.5 Q917.8281,441.5 917.2344,441.7813 Q916.6563,442.0625 916.2031,442.6875 Q915.75,443.3125 915.75,444.1719 L915.75,445.0938 Q915.75,446.125 916.5938,446.8125 Q917.4375,447.5 918.9375,447.5 Q919.8281,447.5 920.4531,447.2969 Q920.8125,447.1875 921.2188,446.8281 Q921.4844,446.625 921.625,446.5625 Q921.7656,446.5 921.9375,446.5 Q922.2656,446.5 922.5,446.7656 Q922.75,447.0156 922.75,447.375 Q922.75,447.7188 922.4063,448.125 Q921.9063,448.7188 921.1094,449.0469 Q920.0625,449.5 918.7813,449.5 Q917.2813,449.5 916.0781,448.9063 Q915.1094,448.4375 914.4219,447.4219 Q913.75,446.4063 913.75,445.2031 L913.75,444.1094 Q913.75,442.8594 914.3438,441.7656 Q914.9531,440.6719 916,440.0938 Q917.0625,439.5 918.25,439.5 Q918.9688,439.5 919.5938,439.75 Q920.2188,440 920.75,440.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="939.25" y="449.7285">YearInfoIterator</text><line style="stroke:#181818;stroke-width:0.5;" x1="850.5" x2="1093.5" y1="460" y2="460"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="233" x="855.5" y="478.5332">current : Map.Entry&lt;Integer, Integer&gt;</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="855.5" y="496.1426">list : TreeMap&lt;Integer,Integer&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="850.5" x2="1093.5" y1="503.2188" y2="503.2188"/><ellipse cx="860.5" cy="517.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="869.5" y="521.752">hasNext(): boolean</text><ellipse cx="860.5" cy="535.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="869.5" y="539.3613">next(): T</text></g><!--MD5=[5e5e6f11f95b2a5b1ef83405528da115]
+reverse link YearEntry to YearInfoIterator--><g id="link_YearEntry_YearInfoIterator"><path codeLine="81" d="M881.92,321.89 C898.95,352.92 921.67,394.32 940.04,427.77 " fill="none" id="YearEntry-backto-YearInfoIterator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="879.45,317.39,880.2861,327.2033,881.8612,321.7702,887.2944,323.3453,879.45,317.39" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="912" y="372.4951">returns</text></g><!--MD5=[1ad32f01feb7cdf71169a2d43041e151]
+link YearInfoIterator to Iterator--><g id="link_YearInfoIterator_Iterator"><path codeLine="82" d="M1062.14,546.19 C1071.82,555.76 1080.49,566.39 1087,578 C1145.13,681.72 1114.56,829.32 1093.88,901.27 " fill="none" id="YearInfoIterator-to-Iterator" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1100.51,903.52,1088.02,920.64,1087.11,899.47,1100.51,903.52" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7445a96722721a862af8738cf6df51d3]
+reverse link YearInfoIterator to YearInfo--><g id="link_YearInfoIterator_YearInfo"><path codeLine="83" d="M1030.79,550.9 C1038.25,565.97 1040.43,581.81 1031,596 C1025.93,603.63 1020.02,599.56 1012,604 C984.22,619.38 955.17,639.3 931.33,656.8 " fill="none" id="YearInfoIterator-backto-YearInfo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1028.31,546.25,1029.0208,556.0732,1030.6652,550.6606,1036.0778,552.3049,1028.31,546.25" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="1038" y="592.4951">returns</text></g><!--MD5=[9dde0fcf41fffdc6011715f20e205b39]
+reverse link FruitEntry to FruitInfoIterator--><g id="link_FruitEntry_FruitInfoIterator"><path codeLine="84" d="M427.81,331.23 C422.29,360.91 415.46,397.59 409.84,427.79 " fill="none" id="FruitEntry-backto-FruitInfoIterator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="428.76,326.15,423.1813,334.2665,427.8455,331.0657,431.0463,335.7298,428.76,326.15" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="422" y="372.4951">returns</text></g><!--MD5=[47cb2ec32f48176f53f1621798e6fd10]
+link FruitInfoIterator to Iterator--><g id="link_FruitInfoIterator_Iterator"><path codeLine="85" d="M491.38,546.09 C510.17,555.6 530.24,564.22 550,570 C556.33,571.85 1019.16,599.51 1024,604 C1051.84,629.82 1042.84,735.54 1049,773 C1056.19,816.68 1065.32,866.45 1071.8,900.99 " fill="none" id="FruitInfoIterator-to-Iterator" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1078.71,899.86,1075.55,920.81,1064.96,902.46,1078.71,899.86" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[270b80ab6d0d7515ac54e717521d0a77]
+reverse link FruitInfoIterator to CompletedInfo--><g id="link_FruitInfoIterator_CompletedInfo"><path codeLine="86" d="M321.44,549.91 C312.87,558.76 304.8,568.21 298,578 C293.1,585.05 295.02,588.42 291,596 C279.87,616.99 265.24,638.87 252.22,656.91 " fill="none" id="FruitInfoIterator-backto-CompletedInfo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="325.15,546.15,315.9865,549.7598,321.6432,549.714,321.689,555.3707,325.15,546.15" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="299" y="592.4951">returns</text></g><!--MD5=[fbfaf8dc0341952f85c7c17e5f14f507]
+reverse link CountryEntry to CountryInfoIterator--><g id="link_CountryEntry_CountryInfoIterator"><path codeLine="87" d="M673.27,331.23 C676.67,360.91 680.87,397.59 684.33,427.79 " fill="none" id="CountryEntry-backto-CountryInfoIterator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="672.69,326.15,669.7439,335.5479,673.261,331.1173,677.6916,334.6344,672.69,326.15" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="679" y="372.4951">returns</text></g><!--MD5=[ece87634d0b8f02699281c0d02c3f6ef]
+link CountryInfoIterator to Iterator--><g id="link_CountryInfoIterator_Iterator"><path codeLine="88" d="M779.6,546.17 C796.47,555.31 814.38,563.77 832,570 C855.42,578.28 1036.09,585.8 1053,604 C1092.04,646.02 1087.46,819.17 1082.91,900.9 " fill="none" id="CountryInfoIterator-to-Iterator" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1089.9,901.37,1081.7,920.91,1075.92,900.52,1089.9,901.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[25b1c99578b192b63d0102183ecfc11f]
+reverse link CountryInfoIterator to CountryInfo--><g id="link_CountryInfoIterator_CountryInfo"><path codeLine="89" d="M655.73,550.62 C638.22,581.71 617.36,618.74 600.97,647.84 " fill="none" id="CountryInfoIterator-backto-CountryInfo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="658.29,546.08,650.3996,551.9742,655.8448,550.4413,657.3777,555.8865,658.29,546.08" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="640" y="592.4951">returns</text></g><!--MD5=[50accf7faf21727cb5fe054c3e30b423]
+link YearInfo to Iterable--><g id="link_YearInfo_Iterable"><path codeLine="91" d="M801.06,740.14 C778.93,751.21 754.69,762.93 732,773 C699.5,787.43 662.53,801.95 632.42,813.31 " fill="none" id="YearInfo-to-Iterable" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="634.46,820.02,613.28,820.46,629.57,806.91,634.46,820.02" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7b86e9e9f86a3949eb98c404940b0bfc]
+link CompletedInfo to Iterable--><g id="link_CompletedInfo_Iterable"><path codeLine="92" d="M326.61,740.15 C387.93,763.76 462.9,792.62 513.93,812.26 " fill="none" id="CompletedInfo-to-Iterable" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="516.74,805.84,532.89,819.56,511.71,818.91,516.74,805.84" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8d4d067eb1802fb58241157f70440000]
+link CountryInfo to Iterable--><g id="link_CountryInfo_Iterable"><path codeLine="93" d="M573,749.19 C573,763.1 573,778.1 573,791.61 " fill="none" id="CountryInfo-to-Iterable" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="580,791.87,573,811.87,566,791.87,580,791.87" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a11724cb02d130178b4be931ebcf1a45]
+link MinimumNumberOfCountriesForQ to CompletedInfo--><g id="link_MinimumNumberOfCountriesForQ_CompletedInfo"><path codeLine="95" d="M396.96,125 C366.67,138.73 337.41,156.94 315,181 C191.41,313.67 203.14,552.06 214.51,651.73 " fill="none" id="MinimumNumberOfCountriesForQ-to-CompletedInfo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="215.12,656.95,218.0395,647.5438,214.535,651.9843,210.0944,648.4798,215.12,656.95" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="226" y="372.4951">uses</text></g><!--MD5=[5f8565ee48ee5b590dd309079f7317a0]
+link MinimumNumberOfCountriesForQ to FruitEntry--><g id="link_MinimumNumberOfCountriesForQ_FruitEntry"><path codeLine="96" d="M528.33,125.26 C511.53,153.01 489.12,190.04 470.82,220.28 " fill="none" id="MinimumNumberOfCountriesForQ-to-FruitEntry" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="468.15,224.69,476.2243,219.0503,470.733,220.4088,469.3744,214.9175,468.15,224.69" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="510" y="169.4951">uses</text></g><!--MD5=[98aec42003c7979986bbce42df33779e]
+link MinimumNumberOfCountriesForQ to CountryEntry--><g id="link_MinimumNumberOfCountriesForQ_CountryEntry"><path codeLine="97" d="M577.46,125.26 C594.11,153.01 616.33,190.04 634.47,220.28 " fill="none" id="MinimumNumberOfCountriesForQ-to-CountryEntry" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="637.11,224.69,635.9095,214.9146,634.5375,220.4025,629.0496,219.0305,637.11,224.69" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="604" y="169.4951">uses</text></g><!--MD5=[f19aa3949b44b1ba7220a7dc2835fb9c]
+link MinimumNumberOfCountriesForQ to YearEntry--><g id="link_MinimumNumberOfCountriesForQ_YearEntry"><path codeLine="98" d="M669.28,125.07 C703.97,139.92 740.98,158.67 772,181 C790.71,194.47 808.38,212.64 822.72,229.38 " fill="none" id="MinimumNumberOfCountriesForQ-to-YearEntry" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="826.29,233.6,823.5459,224.1411,823.0667,229.7777,817.4302,229.2984,826.29,233.6" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="757" y="169.4951">uses</text></g><!--MD5=[bda1e89aedebb0a70a2362cbab1413ca]
+@startuml
+'https://plantuml.com/class-diagram
+'skinparam linetype ortho
+
+package esinf{
+class MinimumNumberOfCountriesForQ{
+{static}+MinimumNumberOfCountriesForQ(CompletedInfo allInfo, BigInteger wantedQuantity): Integer
+{static}+ProcessCompletedInfoForExercise3(CompletedInfo allInfo): TreeMap<String, BigInteger>
+}
+package info{
+class CompletedInfo {
++getCompletedInfo() : TreeMap<String, CountryInfo>
++iterator() : Iterator<FruitEntry>
+}
+}
+package entries{
+class FruitEntry{
+-fruit : String
+-country : CountryInfo
+
++getCountryInfo() : CountryInfo
+
+}
+
+class CountryEntry{
+-year : YearInfo
+
++getCountry() : String
++getYearInfo() : YearInfo
+}
+
+class YearEntry{
+-quantity : int
+
++getQuantity() : int
+}
+}
+interface Iterator{
+}
+
+package iterators{
+class FruitInfoIterator{
+    current : Map.Entry<String, CountryInfo>
+    list : TreeMap<String, CountryInfo>
+    + hasNext(): boolean
+    + next(): T
+}
+
+class CountryInfoIterator{
+    current : Map.Entry<String, YearInfo>
+    list : TreeMap<String, YearInfo>
+    + hasNext(): boolean
+    + next(): T
+}
+class YearInfoIterator{
+    current : Map.Entry<Integer, Integer>
+    list : TreeMap<Integer,Integer>
+    + hasNext(): boolean
+    + next(): T
+ }
+}
+
+package info{
+class CountryInfo
+{
+    - countryInfo : TreeMap<String, YearInfo>
+    + iterator() : Iterator<CountryEntry>
+    + getByCountry(country : String) : YearInfo
+}
+
+class YearInfo
+{
+    - yearInfo : TreeMap<Integer, Integer>
+    + iterator() : Iterator<YearEntry>
+}
+
+}
+
+interface Iterable{
+}
+
+YearEntry <- - YearInfoIterator : returns
+YearInfoIterator -[dashed]- - -|> Iterator
+YearInfoIterator <- - YearInfo : returns
+FruitEntry <- - FruitInfoIterator : returns
+FruitInfoIterator -[dashed]- - -|>Iterator
+FruitInfoIterator <- - CompletedInfo : returns
+CountryEntry <- - CountryInfoIterator : returns
+CountryInfoIterator -[dashed]- - -|> Iterator
+CountryInfoIterator <- - CountryInfo : returns
+
+YearInfo -[dashed]-|> Iterable
+CompletedInfo -[dashed]-|> Iterable
+CountryInfo -[dashed]-|> Iterable
+
+MinimumNumberOfCountriesForQ- ->CompletedInfo : uses
+MinimumNumberOfCountriesForQ- ->FruitEntry : uses
+MinimumNumberOfCountriesForQ- ->CountryEntry : uses
+MinimumNumberOfCountriesForQ- ->YearEntry : uses
+}
+@enduml
+
+@startuml
+
+package esinf{
+class MinimumNumberOfCountriesForQ{
+{static}+MinimumNumberOfCountriesForQ(CompletedInfo allInfo, BigInteger wantedQuantity): Integer
+{static}+ProcessCompletedInfoForExercise3(CompletedInfo allInfo): TreeMap<String, BigInteger>
+}
+package info{
+class CompletedInfo {
++getCompletedInfo() : TreeMap<String, CountryInfo>
++iterator() : Iterator<FruitEntry>
+}
+}
+package entries{
+class FruitEntry{
+-fruit : String
+-country : CountryInfo
+
++getCountryInfo() : CountryInfo
+
+}
+
+class CountryEntry{
+-year : YearInfo
+
++getCountry() : String
++getYearInfo() : YearInfo
+}
+
+class YearEntry{
+-quantity : int
+
++getQuantity() : int
+}
+}
+interface Iterator{
+}
+
+package iterators{
+class FruitInfoIterator{
+    current : Map.Entry<String, CountryInfo>
+    list : TreeMap<String, CountryInfo>
+    + hasNext(): boolean
+    + next(): T
+}
+
+class CountryInfoIterator{
+    current : Map.Entry<String, YearInfo>
+    list : TreeMap<String, YearInfo>
+    + hasNext(): boolean
+    + next(): T
+}
+class YearInfoIterator{
+    current : Map.Entry<Integer, Integer>
+    list : TreeMap<Integer,Integer>
+    + hasNext(): boolean
+    + next(): T
+ }
+}
+
+package info{
+class CountryInfo
+{
+    - countryInfo : TreeMap<String, YearInfo>
+    + iterator() : Iterator<CountryEntry>
+    + getByCountry(country : String) : YearInfo
+}
+
+class YearInfo
+{
+    - yearInfo : TreeMap<Integer, Integer>
+    + iterator() : Iterator<YearEntry>
+}
+
+}
+
+interface Iterable{
+}
+
+YearEntry <- - YearInfoIterator : returns
+YearInfoIterator -[dashed]- - -|> Iterator
+YearInfoIterator <- - YearInfo : returns
+FruitEntry <- - FruitInfoIterator : returns
+FruitInfoIterator -[dashed]- - -|>Iterator
+FruitInfoIterator <- - CompletedInfo : returns
+CountryEntry <- - CountryInfoIterator : returns
+CountryInfoIterator -[dashed]- - -|> Iterator
+CountryInfoIterator <- - CountryInfo : returns
+
+YearInfo -[dashed]-|> Iterable
+CompletedInfo -[dashed]-|> Iterable
+CountryInfo -[dashed]-|> Iterable
+
+MinimumNumberOfCountriesForQ- ->CompletedInfo : uses
+MinimumNumberOfCountriesForQ- ->FruitEntry : uses
+MinimumNumberOfCountriesForQ- ->CountryEntry : uses
+MinimumNumberOfCountriesForQ- ->YearEntry : uses
+}
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 18:01:30 BST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

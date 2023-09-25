@@ -1,0 +1,14 @@
+Area Code,Area Code (M49),Area,Item Code,Item Code (CPC),Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+"210","'752","Sweden","552","'01355.01","Blueberries","5419","Yield","2007","2007","hg/ha","20000.000000","E"
+"210","'752","Sweden","515","'01341","Apples","5419","Yield","1998","1998","hg/ha","80000.000000","E"
+"210","'752","Sweden","515","'01341","Apples","5312","Area harvested","2004","2004","ha","1380.000000","A"
+"210","'752","Sweden","552","'01355.01","Blueberries","5419","Yield","2015","2015","hg/ha","30000.000000","E"
+"210","'752","Sweden","547","'01353.01","Raspberries","5312","Area harvested","2019","2019","ha","130.000000","A"
+"210","'752","Sweden","547","'01353.01","Raspberries","5419","Yield","2020","2020","hg/ha","31667.000000","E"
+"210","'752","Sweden","547","'01353.01","Raspberries","5312","Area harvested","2005","2005","ha","129.000000","I"
+"210","'752","Sweden","547","'01353.01","Raspberries","5510","Production","2019","2019","tonnes","480.000000","A"
+"210","'752","Sweden","547","'01353.01","Raspberries","5419","Yield","1999","1999","hg/ha","10085.000000","E
+"210","'752","Sweden","552","'01355.01","Blueberries","5312","Area harvested","1996","1996","ha","1.000000","I"
+"210","'752","Sweden","547","'01353.01","Raspberries","5419","Yield","2001","2001","hg/ha","12500.000000","E"
+"210","'752","Sweden","552","'01355.01","Blueberries","5510","Production","2019","2019","tonnes","90.000000","A"
+"210","'752","Sweden","515","'01341","Apples","5510","Production","1999","1999","tonnes","18000.000000","A"

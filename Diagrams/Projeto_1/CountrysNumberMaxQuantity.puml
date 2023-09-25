@@ -1,0 +1,97 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+package info{
+class CompletedInfo
+{
+    - completedInfo : TreeMap<String,CountryInfo>
+    + iterator() : Iterator<FruitEntry>
+    + valueSort(completedInfo : CompletedInfo , fruit: String , quantity: Integer)
+    + countrysNumberMaxQuantity(fruitName : String ) : List<Pair<String, Integer>>
+}
+
+class CountryInfo
+ {
+     - countryInfo : TreeMap<String, YearInfo>
+     + iterator() : Iterator<CountryEntry>
+     + getByCountry(country : String) : YearInfo
+ }
+
+class YearInfo
+{
+    - yearInfo : TreeMap<Integer, Integer>
+    + iterator() : Iterator<YearEntry>
+}
+}
+package iterators{
+class CountryInfoIterator
+{
+    current : Map.Entry<String, YearInfo>
+    list : TreeMap<String, YearInfo>
+    + hasNext(): boolean
+    + next(): T
+}
+class YearInfoIterator
+{
+    current : Map.Entry<Integer, Integer>
+    list : TreeMap<Integer,Integer>
+    + hasNext(): boolean
+    + next(): T
+}
+
+class FruitInfoIterator
+{
+    current : Map.Entry<String, CountryInfo>
+    list : TreeMap<String, CountryInfo>
+    + hasNext(): boolean
+    + next(): T
+}
+}
+
+
+
+
+
+
+class CountryYearQuantity{
+    -String country
+    - int year
+    -int quantity
+}
+package exception{
+class FruitNotFoundException{
+}
+}
+interface Exception{
+}
+interface Iterable{
+}
+
+interface Iterator{
+}
+
+
+FruitNotFoundException ...|> Exception
+FruitNotFoundException <.. CompletedInfo : uses
+CountryInfo ....|>  Iterable
+CompletedInfo ....|>  Iterable
+YearInfo ....|>  Iterable
+
+CountryInfoIterator ....|>  Iterator
+FruitInfoIterator ....|>  Iterator
+YearInfoIterator ....|>  Iterator
+
+
+CompletedInfo o-- CountryInfo
+
+CountryInfo o-- YearInfo
+
+CountryYearQuantity <.. CompletedInfo : uses
+
+
+CountryInfoIterator <|.. CountryInfo : returns
+FruitInfoIterator <|.. CompletedInfo : returns
+YearInfoIterator <|.. YearInfo : returns
+
+
+
+@enduml

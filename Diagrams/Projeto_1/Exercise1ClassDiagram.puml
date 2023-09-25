@@ -1,0 +1,41 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+
+package info{
+class CompletedInfo
+{
+    - completedInfo : TreeMap<String,CountryInfo>
+    + add(fruitName : String, country : CountryInfo) : void
+    + containsFruit(fruit : String) : boolean
+    + containsCountry(fruit : String, country : String) : boolean
+    + addAnotherYear(fruit : String, country : String, year : int, quantity : int) : void
+    + addNewCountry(fruit : String, country : String, year : int, quantity : int) : void
+    + addNewFruitAndCountry(fruit : String, country : String, year : int, quantity : int) : void
+    + newYearInfo(year : int, quantity : int) : YearInfo
+    + newCountry(country : String, year : YearInfo) : CountryInfo
+}
+class CountryInfo
+ {
+     - countryInfo : TreeMap<String, YearInfo>
+     + add(country : String, year : YearInfo) : void
+     + containsCountry(country : String) : boolean
+     + getByCountry(country : String) : YearInfo
+ }
+ class YearInfo
+  {
+      - yearInfo : TreeMap<Integer, Integer>
+      + add(year: int, quantity: int) : void
+  }
+}
+class Store_Data
+{
+    + storeInfo(fileName : String) : CompletedInfo
+}
+
+CountryInfo  --> YearInfo: uses
+CompletedInfo  --> CountryInfo: uses
+Store_Data  ---> CompletedInfo: uses
+
+@enduml

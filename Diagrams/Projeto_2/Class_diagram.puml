@@ -1,0 +1,289 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+
+abstract class Area{
+ - areaCode: Integer
+ - codeM49: Integer
+ - areaName : String
+ + {abstract}compareTo(o:Area):int
+ - itemList : AVL<Item>
+ '+ equals(o : Area) : boolean
+ ' + compareTo
+
+}
+
+class AreaCode{
++ {abstract}compareTo(o:AreaCode):int
+}
+
+class AreaCodeM49{
++ {abstract}compareTo(o:AreaCodeM49):int
+}
+
+class AreaName{
++ {abstract}compareTo(o:AreaName):int
+}
+
+abstract class Element{
+- elementCode: Integer
+- elementName: String
+- productionYearList:AVL<ProductionYear>
++ {abstract}compareTo(o : Element) : int
+}
+
+class ElementCode{
++ {abstract}compareTo(o : ElementCode) : int
+}
+
+class ElementName{
++ ElementName(elementCode : Integer, elementName : String)
++ {abstract}compareTo(o : ElementName) : int
+}
+
+abstract class Item
+{
+- itemCode: Integer
+- itemCodeCPC: String
+- itemName: String
+- elementList:AVL<Element>
++ {abstract}compareTo(o : Item) : int
+}
+
+class ItemCode{
++ {abstract}compareTo(o : ItemCode) : int
+}
+
+class ItemCodeCPC{
++ {abstract}compareTo(o : ItemCodeCPC) : int
+}
+
+class ItemName{
++ {abstract}compareTo(o : ItemName) : int
+}
+
+class ItemElementAgregateValue
+{
+ -min: Year
+ -max: Year
+ -item : Item
+ -element : Element
+ -values : List<Value>
+ + addValue(value : Value) : void
+ +avg() : double
+ +isEmpty() : boolean
+}
+
+
+class Value
+{
+- unit: String
+- value: Integer
+- flag: char
+- flagDescription: String
++ compareTo(a : Value) : int
+
+}
+
+class Year{
+- year : Integer
++ compareTo(o : Year)
+}
+
+class AVL<E>{
+-balanceFactor(node : Node<E> ): int
+-rightRotation(node : Node<E> ) : Node<E>
+-leftRotation(node : Node<E>) : Node<E>
+-twoRotations(node : Node<E>) : Node<E>
+-balanceNode(node : Node<E> ) : Node<E>
+-insert(element : E, node : Node<E>) : Node<E>
+-remove(element : E, node : Node<E>) : Node<E>
+}
+
+class BST<E>{
+#root : Node<E>
+#find(node : Node<E> ,element e): Node<E>
+#height(node : Node<E>) : int
+#smallestElement(): E
++ inOrder() : Iterable<E>
++ preOrder() : Iterable<E>
++ posOrder() : Iterable<E>
++ nodesByLevel() : Map<Integer,List<E>>
+-insert(element : E, node : Node<E>) : Node<E>
+-remove(element : E, node : Node<E>) : Node<E>
+}
+
+interface BSTInterface{
++ isEmpty() : boolean
++ insert()
++ remove()
++ size() : int
++ height() : int
++ smallestElement() : E
++ inOrder() : Iterable<E>
++ preOrder() : Iterable<E>
++ posOrder() : Iterable<E>
++ nodesByLevel() : Map<Integer,List<E>>
+}
+
+interface DataTypeInterface<E>
+{
++getDataName():String
++getDataCode():Integer
++getDataAlternativeCode():String
++getDataType():E
+}
+
+class FastReader{
+br : BufferedReader
+st : StringTokenizer
++ FastReader(stream : InputStream)
+next() : String
+nextInt() : int
+nextLong() : Long
+nextDouble() : double
+nextLine() : String
+
+}
+
+class Pair{
+- left : T
+- right : U
++ Pair(left : T, right : U)
++ compareTo(o : Pair<T,U>
+}
+
+class ReadDataFromFiles{
++ {static} storeDataFromFileCoordinates(fileName : String,areaAVL:AVL<Area> ) : List<Three<Area, Float, Float>>
+- {static} storeDataFromFileFlag(fileName : String) : TreeMap<String, String>
++ {static} storeDataFromFileProduction(fileName:String ,fileFlags:String,areaType: String , itemType:String ,elementType: String )
+- {static} verifyIfEmptyOrNull (data : String[] )
+}
+class Three<T,U,S>{
+- left : T
+- middle : U
+- right : S
++ Three(left : T, middle : U, right : S)
++ equals(obj:Object):boolean
+}
+
+class MiddleComparator<E>
+{
+    + compare(o:Three<?, E, ?>1,o2:Three<?, E, ?> ):int
+}
+
+class RightComparator<E>
+{
+    + compare(o:Three<?, E, ?>1,o2:Three<?, E, ?> ):int
+}
+
+class TwoDTree<E>{
+- coords : Point2D.Float
+# info : E
+# left : TwoDNode<E>
+# right : TwoDNode<E>
+# root : TwoDNode<E>
++ TwoDTree(data : List<Three<E, float, float>>)
+# root() : TwoDNode
+'comparator
++ isEmpty() : boolean
++ insert(data : List<Three<E, float, float>>) : TwoDNode<E>
++ remove(element : E, x : Float, y : Float)
+# smallestElement(node : TwoDNode<E>, divX : boolean)
+# smallestElement(node : TwoDNode<E>, divX : boolean,depth : int)
++ minNode( x:TwoDNode<E>, y:TwoDNode<E> , z: TwoDNode<E>, divX:boolean )
++exact_search(node: TwoDNode<E>, x: double ,y: double, divX: boolean):TwoDNode<E>
++nearestNeighbourSearch(x:Float, y:Float):E
++searchInArea(listInArea:List<E>,inicialX:Float ,finalX: Float , inicialY:Float,finalY: Float ):List<E>
+-insert(data:List<Three<E, Float, Float>> ):TwoDNode<E>
+-CMPX():Comparator<TwoDNode<E>>
+-CMPY():Comparator<TwoDNode<E>>
+}
+
+Interface TwoDTreeInterface{
+    + remove(data:E, x: Float,y: Float ):void
+
+    + size( node:TwoDTree.TwoDNode<E>):int
+
+    +height(TwoDTree.TwoDNode<E> node):int
+
+    +exactSearch(x:Float ,y:Float):E
+
+    +searchInArea( listInArea:List<E>, inicialX: Float,finalX: Float ,inicialY: Float , finalY:Float):List<E>
+    +nearestNeighbourSearch( x:Float,y: Float ):E
+}
+class Node<E>
+{
+    - element:E
+    - left:Node<E>
+    - right:Node<E>
+    + getLeft() : Node<E>
+    + getRight() : Node<E>
+}
+
+class TwoDNode<E>
+{
+    - coords : Point2D.Double
+    # info: E
+    # left: TwoDNode<E>
+    # right: TwoDNode<E>
+    + getLeft() :TwoDNode<E>
+    + getRight() : TwoDNode<E>
+}
+
+
+class ProductionYear
+{
+    +year: Year
+    +value : Value
+}
+
+class ProductionMethods
+{
+    +{static} nearestAreaToCertainData( areaAVL:AVL<Area>, longitude:float, latitude:float , item: String,  element:String, year: Integer, fileName: String):Area
+    +{static} sumValuesInAreaOfProduction( areaAVL:AVL<Area>, twoDTree: TwoDTree<Area>, itemCode: int, elementCode: int, yearCode:int ,inicialX: Float , finalX: Float,inicialY: Float ,finalY: Float ):Long {
+    +{static} AvgValueByItemElement(areaAVL:AVL<Area> ,areaInput: Area ,year1: Year , year2:Year ):List
+    +{static} topNAreas(areaAVL:AVL<Area> ,item: String ,element: String ,n: Integer ):List
+
+}
+
+class BST implements BSTInterface
+class TwoDTree implements TwoDTreeInterface
+BST<|--AVL
+
+Area<|--AreaCode
+Area<|--AreaCodeM49
+Area<|--AreaName
+Area -[dashed]-> Item : uses
+Element<|--ElementCode
+Element<|--ElementName
+Item -[dashed]-> Element : uses
+Item<|--ItemCode
+Item<|--ItemCodeCPC
+Item<|--ItemName
+Element -[dashed]-> ProductionYear : uses
+ProductionYear -[dashed]-> Year : uses
+ProductionYear -[dashed]-> Value : uses
+
+Item -[dashed]-> AVL : uses
+Element -[dashed]-> AVL : uses
+Area -[dashed]-> AVL : uses
+ProductionMethods -[dashed]-> ItemElementAgregateValue:uses
+ProductionMethods -[dashed]-> AVL:uses
+ProductionMethods -[dashed]-> Area:uses
+ProductionMethods -[dashed]-> TwoDTree:uses
+ProductionMethods -[dashed]-> Pair:uses
+TwoDTree +--TwoDNode
+BST +--Node
+Three +-- MiddleComparator
+Three +-- RightComparator
+TwoDTree -[dashed]-> Three:uses
+ReadDataFromFiles -[dashed]-> Three:uses
+ReadDataFromFiles -[dashed]-> AVL:uses
+ReadDataFromFiles -[dashed]-> FastReader:uses
+class Area implements DataTypeInterface
+class Item implements DataTypeInterface
+class Element implements DataTypeInterface
+
+@enduml
